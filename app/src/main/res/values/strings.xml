@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">FrumToronto</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_directory">DirectoryActivity</string>
+    <string name="title_activity_calendar">CalendarActivity</string>
+    <string name="title_activity_alerts">AlertsActivity</string>
+    <string name="title_activity_classified">ClassifiedActivity</string>
+    <string name="title_activity_shuls_and_tefillos">ShulsAndTefillosActivity</string>
+    <string name="title_activity_contact_us">ContactUsActivity</string>
+    <string name="calendar_button_text">Calendar</string>
+    <string name="directory_button_text">Directory</string>
+    <string name="alerts_button_text">Alerts</string>
+    <string name="shuls_and_tefillos_button_text">Shuls and tefillos</string>
+    <string name="classified_button_text">Classified</string>
+    <string name="contact_us_button_text">Contact us</string>
+    <string name="show_toronto_weather_button_text">Click here for Toronto weather</string>
+    <string name="show_local_weather_button_text">Click here to check the weather in your area</string>
+    <string name="directory_rates_button_text">Directory rates</string>
+    <string name="advanced_search_button_text">Advanced Search</string>
+    <string name="title_activity_buisness_directory">BuisnessDirectoryActivity</string>
+    <string name="title_activity_register_your_buisness">RegisterYourBuisnessActivity</string>
+    <string name="title_activity_calendar_web_page">CalendarWebPageActivity</string>
+    <string name="title_activity_directory_rates">DirectoryRates</string>
+    <string name="title_activity_advanced_search">AdvancedSearchActivity</string>
+    <string name="title_activity_business_services">BusinessServices</string>
+    <string name="title_activity_clothing_and_accessories">ClothingAndAccessoriesActivity</string>
+    <string name="title_activity_financial_services">FinancialServicesActivity</string>
+    <string name="title_activity_government_and_institutions">GovernmentAndInstitutionsActivity
+    </string>
+    <string name="title_activity_health_and_beauty">HealthAndBeautyActivity</string>
+    <string name="title_activity_home_and_garden">HomeAndGardenActivity</string>
+    <string name="title_activity_jewish_community_services">JewishCommunityServicesActivity</string>
+    <string name="title_activity_kosher_foods">KosherFoodsActivity</string>
+    <string name="title_activity_property_and_accomodations">PropertyAndAccomodationsActivity
+    </string>
+    <string name="title_activity_services">ServicesActivity</string>
+    <string name="title_activity_shopping">ShoppingActivity</string>
+    <string name="title_activity_simchas">SimchasActivity</string>
+    <string name="title_activity_sport_and_leisure">SportAndLeisureActivity</string>
+    <string name="title_activity_transport_and_auto">TransportAndAutoActivity</string>
+    <string name="title_activity_weekly_shiurim">WeeklyShiurimActivity</string>
+    <string name="title_activity_zmanim">ZmanimActivity</string>
+    <string name="title_activity_bulletins_and_alerts">BulletinsAndAlertsActivity</string>
+    <string name="title_activity_kosher_alerts">KosherAlertsActivity</string>
+    <string name="title_activity_shiva_notifications">ShivaNotificationsActivity</string>
+    <string name="title_activity_classified_web_page">ClassifiedWebPageActivity</string>
+    <string name="title_activity_weekly_specials">WeeklySpecialsActivity</string>
+    <string name="title_activity_davening_schedule">DaveningScheduleActivity</string>
+    <string name="title_activity_shul_listings">ShulListingsActivity</string>
+    <string name="title_activity_mincha_list">MinchaListActivity</string>
+    <string name="title_activity_community_newsletters">CommunityNewslettersActivity</string>
+    <string name="title_activity_weekly_publications">WeeklyPublicationsActivity</string>
+    <string name="title_activity_tehillim_list">TehillimListActivity</string>
+    <string name="title_activity_contact_us_webpage">ContactUsWebpageActivity</string>
+    <string name="title_activity_advertising_rates">AdvertisingRatesActivity</string>
+    <string name="title_activity_frequently_asked_questions">FrequentlyAskedQuestionsActivity
+    </string>
+    <string name="title_activity_about_us">AboutUsActivity</string>
+</resources>
